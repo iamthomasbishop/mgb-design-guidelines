@@ -12,7 +12,7 @@ Start by reading about the basics in [Overview](foundation.md), and once you're 
 
 The goals, principles, and key concepts of the block editor. 
 
-[Learn More](foundation.md)
+[Learn More](overview.md)
 
 ## Guidelines
 
