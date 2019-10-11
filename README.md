@@ -1,6 +1,8 @@
 # 📱 Mobile Gutenberg Design Guidelines
 
-<p class="callout warning">📣 Note: This is very much a work-in-progress</p>
+```
+📣 Note: This is very much a work-in-progress
+```
 
 Guidelines and resources for designing blocks and UI for the Mobile Gutenberg project.
 
